@@ -1,7 +1,7 @@
 [200~//NOTE:THESE ARE NOTES NOT A PROGRAM
 
 class Employee implements Comparable<Employee>{//if you want to sort array of non premitive type then that array must implement comparable interface
-		private String name;
+		private String name;//to commit changes
 			private int empid;
 				private float salary;
 					public Employee() {
@@ -91,4 +91,5 @@ class Employee implements Comparable<Employee>{//if you want to sort array of no
 								// 																																																																																									
 								// 																																																																																									}
 								// 																																																																																									//comparto is a method of comparable interface:wq
-								//
+								/
+					/
